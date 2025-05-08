@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="42" viewBox="0 0 160 42" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { fill: #F1F2FF; font-family: Arial, sans-serif; font-size: 24px; }
+  </style>
+  <text x="10" y="28" class="text">EduNexus</text>
+</svg>
