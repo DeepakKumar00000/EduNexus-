@@ -1,4 +1,4 @@
-const BASE_URL = import.meta.env.VITE_APP_BASE_URL;
+const BASE_URL = "https://edunexus-backend-x9ar.onrender.com/api/v1";
 
 // AUTH ENDPOINTS
 export const endpoints = {
